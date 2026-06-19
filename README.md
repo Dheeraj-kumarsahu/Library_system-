@@ -35,9 +35,10 @@ The primary objective of this project is to provide a user-friendly digital syst
 
 ### 👥 Author & Contact
 
-*   **Author:** Dheerajkumarsahu
-*   **Email:** dheerajkumarsahu827@gmail.com
-*   **Github:** https://github.com/Dheeraj-kumarsahu/
+*   **Author:**  Dheerajkumarsahu
+*   **Email:**   dheerajkumarsahu827@gmail.com
+*   **Github:**  https://github.com/Dheeraj-kumarsahu/
+*   **Linkdin:** www.linkedin.com/in/dheeraj-kumar-sahu-0a6184418
 
 * * *
 
